@@ -3,7 +3,7 @@ A very simple Leaflet point map for new users to explore, copy, and edit
 
 ## Link to my live map (replace with link to your site)
 
-http://jackdougherty.github.io/leaflet-map-simple
+https://zcromwell.github.io/leaflet-map-simple/
 
 ## Copy and edit your own version
 
